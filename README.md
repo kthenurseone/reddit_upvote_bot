@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/aW1Q6LQQG_4" target="_blank"><img src="https://github.com/kthenurseone/reddit_shill_bot/blob/main/1.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/aW1Q6LQQG_4" target="_blank"><img src="https://github.com/kthenurseone/reddit_upvote_bot/blob/main/1.png?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
@@ -23,8 +23,9 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 ## Features
 - Login automatically
-- Send messages automatically
-- Closes automatically when job is done
+- Refresh pages
+- UpVote
+- Quit
 
 
 
@@ -32,14 +33,13 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 1) Buy lisance [@kthenurseone](https://t.me/kthenurseone)
 2) Buy proxies
 3) Create accounts with [account creator ](https://github.com/kthenurseone/reddit_account_creator)
-4) Set the messages which you want to send
-5) Set the link which you want to comment
-6) And run the bot !
+4) Set the link which you want to upvote
+5) And run the bot !
 
 
 ## Images
-![Telegram Message Bot](https://github.com/kthenurseone/reddit_shill_bot/blob/main/1.png?raw=true)
-![Telegram Message Bot](https://github.com/kthenurseone/reddit_shill_bot/blob/main/2.png?raw=true)
+![reddit_upvote_bot](https://github.com/kthenurseone/reddit_upvote_bot/blob/main/1.png?raw=true)
+![reddit_upvote_bot](https://github.com/kthenurseone/reddit_upvote_bot/blob/main/2.png?raw=true)
 
 
 
